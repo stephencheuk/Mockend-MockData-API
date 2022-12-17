@@ -6,7 +6,7 @@
     }
   },
   "Comment": {
-    "body": { "string": {} },
+    "body": { "string": ["Post Comment 1", "Post Comment 2", "Post Comment 3", "Post Comment 4", "Post Comment 5", "Post Comment 6"] },
     "post": {
       "belongsTo": "Post"
     }
